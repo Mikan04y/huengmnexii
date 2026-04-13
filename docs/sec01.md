@@ -721,8 +721,8 @@ async def get_message():
 なお，FastAPIでは
 
 -   デコレータ部`@app.get("/message")`の
-    -   `get`をオペレーション，
-    -   `"/message"`をパス，
+    -   `get`を**オペレーション(operation)**，
+    -   `"/message"`を**パス(path)**，
 -   デコレータで修飾される関数(ここでは`get_message()`)のことを**パスオペレーション関数(path operation function)**と呼ぶ．
 
 #### async ####
