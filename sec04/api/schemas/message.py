@@ -18,4 +18,4 @@ class Message(MessageBase):
 
 
 class Messages(BaseModel):
-    messages: dict[int, Message] = Field({})
+    messages: dict[int, Message] = Field(default_factory=dict)
