@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="109.22916mm"
+   height="95.799385mm"
+   viewBox="0 0 109.22916 95.799385"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="sec02_wsl_network.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="97.580733"
+     inkscape:cy="148.49242"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid182"
+       originx="-20.666667"
+       originy="-33.895832" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="6.809"
+       markerHeight="7.8716755"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.666666,-33.895832)">
+    <rect
+       style="fill:#cffaff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:5;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect236"
+       width="92.604164"
+       height="66.145836"
+       x="21.166666"
+       y="34.395832" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-miterlimit:5;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect846"
+       width="55.5625"
+       height="39.6875"
+       x="39.6875"
+       y="47.625" />
+    <rect
+       style="fill:#86dbf6;fill-opacity:1;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-miterlimit:5;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect902"
+       width="37.041668"
+       height="23.8125"
+       x="39.6875"
+       y="55.5625" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:125%;font-family:'Segoe UI';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="24.736776"
+       y="42.333336"
+       id="text958"><tspan
+         sodipodi:role="line"
+         id="tspan956"
+         style="text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="24.736776"
+         y="42.333336">Windows</tspan></text>
+    <rect
+       style="fill:#ffff93;fill-opacity:1;stroke:#000000;stroke-width:0.999994;stroke-linecap:round;stroke-miterlimit:5;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1010"
+       width="7.4374995"
+       height="7.4375038"
+       x="73.010414"
+       y="63.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:125%;font-family:'Segoe UI';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="41.620716"
+       y="63.429443"
+       id="text1159"><tspan
+         sodipodi:role="line"
+         id="tspan1157"
+         style="text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="41.620716"
+         y="63.429443">WSL</tspan></text>
+    <rect
+       style="fill:#e5ffe7;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1213"
+       width="13.229166"
+       height="15.875"
+       x="97.895836"
+       y="59.53125" />
+    <rect
+       style="fill:#ffff93;fill-opacity:1;stroke:#000000;stroke-width:0.999994;stroke-linecap:round;stroke-miterlimit:5;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1012"
+       width="7.4374995"
+       height="7.4375038"
+       x="91.53125"
+       y="63.5" />
+    <rect
+       style="fill:#ffff93;fill-opacity:1;stroke:#000000;stroke-width:0.999994;stroke-linecap:round;stroke-miterlimit:5;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1014"
+       width="7.4374995"
+       height="7.4375038"
+       x="110.05209"
+       y="63.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:'Segoe UI';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="104.35872"
+       y="63.441792"
+       id="text1529"><tspan
+         sodipodi:role="line"
+         id="tspan1527"
+         style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="104.35872"
+         y="63.441792">NAPT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:'Segoe UI';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="75.340988"
+       y="52.846111"
+       id="text1533"><tspan
+         sodipodi:role="line"
+         id="tspan1531"
+         style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="75.340988"
+         y="52.846111">172.28.139.139</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:'Segoe UI';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="83.34375"
+       y="85.989586"
+       id="text4441"><tspan
+         sodipodi:role="line"
+         id="tspan4439"
+         style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="83.34375"
+         y="85.989586">172.28.128.1</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 82.020832,54.239583 -1.322916,9.260416"
+       id="path4443" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 85.989583,83.34375 92.604167,71.4375"
+       id="path5064"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:'Segoe UI';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="101.20312"
+       y="97.234375"
+       id="text5127"><tspan
+         sodipodi:role="line"
+         id="tspan5125"
+         style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="101.20312"
+         y="97.234375">192.168.11.13</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 103.84896,94.588542 111.125,71.4375"
+       id="path5129"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 91.28125,67.46875 H 80.697917"
+       id="path5137"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 129.64583,67.46875 H 117.73958"
+       id="path5145"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 129.64583,124.35417 V 34.395833"
+       id="path5147"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 85.989583,74.083333 H 80.697917"
+       id="path5151"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 85.989583,76.729167 H 80.697917"
+       id="path5153"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 80.697917,79.375 h 5.291666 V 67.46875"
+       id="path5157"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 129.64583,115.09375 H 117.73958"
+       id="path5163"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#cffaff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:5;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5165"
+       width="92.604164"
+       height="18.520838"
+       x="21.166666"
+       y="105.83334" />
+    <rect
+       style="fill:#ffff93;fill-opacity:1;stroke:#000000;stroke-width:0.999994;stroke-linecap:round;stroke-miterlimit:5;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5161"
+       width="7.4374995"
+       height="7.4375038"
+       x="110.05209"
+       y="111.125" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:125%;font-family:'Segoe UI';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="24.736776"
+       y="113.77084"
+       id="text5169"><tspan
+         sodipodi:role="line"
+         id="tspan5167"
+         style="text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="24.736776"
+         y="113.77084">Another computer</tspan></text>
+    <rect
+       style="fill:#fac1e4;fill-opacity:1;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-miterlimit:5;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect5171"
+       width="29.927086"
+       height="7.9375024"
+       x="81.197914"
+       y="37.041668" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="107.89374"
+       y="43.580463"
+       id="text5175"><tspan
+         sodipodi:role="line"
+         id="tspan5173"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="107.89374"
+         y="43.580463">Chrome</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:'Segoe UI';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="101.20312"
+       y="97.234375"
+       id="text5460"><tspan
+         sodipodi:role="line"
+         id="tspan5458"
+         style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="101.20312"
+         y="97.234375">192.168.11.13</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:'Segoe UI';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="103.1875"
+       y="129.64583"
+       id="text5464"><tspan
+         sodipodi:role="line"
+         id="tspan5462"
+         style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;-inkscape-font-specification:'Segoe UI';font-family:'Segoe UI';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="103.1875"
+         y="129.64583">192.168.11.15</tspan></text>
+  </g>
+</svg>
