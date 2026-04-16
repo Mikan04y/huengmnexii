@@ -18,6 +18,7 @@ async function api_request(path) {
     }
 }
 async function api_request_post(path, data) {
+    // この回だけ簡略実装にしている
     const query = new URLSearchParams({message: data})
     const url = server + path + '?' + query
     try {
